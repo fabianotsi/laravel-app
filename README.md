@@ -1,7 +1,18 @@
-## Endereço da imagem no Docker Hub
+## Informações sobre exercício "Desafio Docker" (22/07/2020)
 
-Abaixo, o endereço da imagem no Docker Hub:
+Tarefa 1: Foi atualizado a imagem nginx conforme solicitado no exercicio. 
+Atualizados arquivos Dockerfile e nginx.conf da pasta ./docker/nginx e Docker-compose.yaml.
+Criado arquivo entrypoint.sh dentro da pasta .docker/nginx.
+Github Atualizado.
+
+Exercício 2: Imagem atualizada no docker hub: https://hub.docker.com/repository/docker/fabianoteixeirasilva/codeeducation
+Código fonte em .docker/golang.
+
+## Informações sobre exercício "Publicando imagem laravel"
+
+Abaixo, o endereço da imagem no Docker Hub do exercício:
 https://hub.docker.com/r/fabianoteixeirasilva/laravel_app
+
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
