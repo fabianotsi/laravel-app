@@ -1,11 +1,11 @@
 ## Informações sobre exercício "Desafio Docker" (22/07/2020)
 
-Tarefa 1: Foi atualizado a imagem nginx conforme solicitado no exercicio.<br />
+*Tarefa 1*: Foi atualizado a imagem nginx conforme solicitado no exercicio.<br />
 Aualizados arquivos Dockerfile e nginx.conf da pasta ./docker/nginx e Docker-compose.yaml.<br />
 Criado arquivo entrypoint.sh dentro da pasta .docker/nginx.<br />
 Github Atualizado.
 
-Exercício 2: Imagem atualizada no docker hub: https://hub.docker.com/repository/docker/fabianoteixeirasilva/codeeducation<br />
+*Tarefa 2*: Imagem atualizada no docker hub: https://hub.docker.com/repository/docker/fabianoteixeirasilva/codeeducation<br />
 Código fonte em .docker/golang.<br />
 
 ## Informações sobre exercício "Publicando imagem laravel"
