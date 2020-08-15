@@ -4,11 +4,12 @@ metadata:
   name: app-conf
 data:
   env: |
-    APP_NAME=docker-Laravel
+    APP_NAME=Laravel
     APP_ENV=local
-    APP_KEY=base64:vw6g2uP8LV22haEERtzr5yDCBraLrMwbxlbSJDA97uk=
+    APP_KEY=
     APP_DEBUG=true
     APP_URL=http://localhost
+    
     LOG_CHANNEL=stack
 
     DB_CONNECTION=mysql
@@ -20,7 +21,7 @@ data:
     BROADCAST_DRIVER=log
     CACHE_DRIVER=file
     QUEUE_CONNECTION=sync
-    SESSION_DRIVER=redis
+    SESSION_DRIVER=file
     SESSION_LIFETIME=120
 
     REDIS_HOST=redis-service
